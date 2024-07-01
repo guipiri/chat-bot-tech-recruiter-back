@@ -1,0 +1,13 @@
+name: container-postgres
+services:
+  db:
+    image: postgres
+    container_name: postgresdb
+    environment:
+      POSTGRES_DB: chatbot-tech-recruiter-db
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+    volumes:
+      - ./pgdata:/var/lib/postgresql/data
+    ports:
+      - '5432:5432'

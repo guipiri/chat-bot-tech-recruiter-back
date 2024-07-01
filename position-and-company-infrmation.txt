@@ -1,0 +1,27 @@
+About the company:
+
+Name: Plaza.
+Description: a VC-backed Brazilian Proptech / Fintech (currently growing 34% monthly) that is focused on helping reshape the somewhat old-school real estate market with the use of technology and AI.
+
+Candidates should:
+
+-Love building stuff from scratch and working with loosely defined problems.
+-Have a lot of interest in understanding the product itself and participating in its inception.
+-Be a lifelong learner who is always thrilled to take on new and challenging software projects.
+-Believe your job is not only about writing software, but also understanding its purpose. You often propose changes to the project itself in order to make it more viable/cheaper.
+-Be a communicative person that values building strong relationships with colleagues and stakeholders and have the ability to explain complex topics in simple terms.
+-Be willing to sacrifice some of your free time to build what might be the next big thing in your life/career.
+-Be a software developer with at least 5 years of experience
+-Hold a senior/staff/leadership software development position in a tech-driven company
+-Be an "expert generalist" and have a deep general understanding about different software development "disciplines" (front-end, back-end, databases, different programming language paradigms, etc).
+-Have GenAI / ML experience.
+
+You will:
+
+- Be a part of our FOUNDING TEAM; which means that this is absolutely not the kind of job where you will be just writing software by yourself and getting absorbed by technical shenanigans.
+- Work 100% on-site (located in Sao Paulo).
+- Communicate with our company's main stakeholders (founders, clients, other team members) about what solutions are going to be built and even questionate if we really need to be building those solutions in the first place.
+- Get the opportunity to work remotely on a few occasions
+- Work heavily on top of OpenAI's API to create chat bots
+- Work with Ruby on Rails but it is not necessary previous knowledge
+- Will receive a competitive salary and, most importantly, an aggressive stock options plan.
